@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
 title: Andrew Spiers: Black Hole and Gravitational Wave Researcher: Homepage
 description: I am a PhD scientist at the University of Southampton, soon to graduate and begin a Research Associate position at the University of Nottingham.
+
+
+# Site Author
+author:
+  name             : "Andrew Spiers"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "University of Southampton"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "A.R.C.SPIERS@SOTON.AC.UK"
+  github           : "https://github.com/arcs1n18/"
+  orcid            : "http://orcid.org/yourorcidurl"
+#  twitter          : "replacethistwitterhandle"
